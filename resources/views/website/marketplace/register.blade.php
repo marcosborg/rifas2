@@ -33,7 +33,7 @@
 
             <div class="col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300">
                 <div class="pricing-item">
-                    <h3>Vendedores de produtos e serviços</h3>
+                    <h3>Vendedores de produtos/serviços</h3>
                     <h4><sup>€</sup>15<span> / mês + % das vendas</span></h4>
                     <ul>
                         <li><i class="bi bi-check"></i> <span>Loja online em CausasApp</span></li>
