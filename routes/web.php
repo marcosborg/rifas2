@@ -1,4 +1,5 @@
 <?php
+
 Route::prefix('/')->group(function () {
     Route::get('/', 'WebsiteController@index');
     Route::get('donate/{page_id}/{slug}', 'WebsiteController@page');
