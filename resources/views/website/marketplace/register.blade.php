@@ -23,8 +23,8 @@
                         <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de produtos</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Venda de serviços</span></li>
-                        <li class="na"><i class="bi bi-x"></i> <span>Assinatura reverte para causas</span></li>
-                        <li><i class="bi bi-check"></i> <span>Percentagem das vendas para apoio social</span>
+                        <li class="na"><i class="bi bi-x"></i> <span>Valor da assinatura reverte para causas</span></li>
+                        <li><i class="bi bi-check"></i> <span>Percentagem das vendas reverte para causas</span>
                         </li>
                     </ul>
                     <a href="#" class="btn btn-primary">Assinar agora</a>
@@ -40,8 +40,8 @@
                         <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de produtos</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de serviços</span></li>
-                        <li><i class="bi bi-check"></i> <span>Assinatura reverte para causas</span></li>
-                        <li><i class="bi bi-check"></i> <span>Percentagem das vendas para apoio social</span>
+                        <li><i class="bi bi-check"></i> <span>Valor da assinatura reverte para causas</span></li>
+                        <li><i class="bi bi-check"></i> <span>Percentagem das vendas reverte para causas</span>
                         </li>
                     </ul>
                     <a href="#" class="btn btn-primary">Assinar agora</a>
@@ -57,8 +57,8 @@
                         <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Venda de produtos</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de serviços</span></li>
-                        <li><i class="bi bi-check"></i> <span>Assinatura reverte para causas</span></li>
-                        <li class="na"><i class="bi bi-x"></i> <span>Percentagem das vendas para apoio social</span>
+                        <li><i class="bi bi-check"></i> <span>Valor da assinatura reverte para causas</span></li>
+                        <li class="na"><i class="bi bi-x"></i> <span>Percentagem das vendas reverte para causas</span>
                         </li>
                     </ul>
                     <a href="#" class="btn btn-primary">Assinar agora</a>
