@@ -17,13 +17,13 @@
             <div class="col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
                 <div class="pricing-item featured">
                     <h3>Vendedores de produtos</h3>
-                    <h4><sup>€</sup>0<span> (% das vendas)</span></h4>
+                    <h4><sup>€</sup>0<span> + % das vendas</span></h4>
                     <ul>
-                        <li><i class="bi bi-check"></i> <span>Loja online em CausasApp</span></li>
-                        <li><i class="bi bi-check"></i> <span>Selo de apoio CausasApp</span></li>
+                        <li><i class="bi bi-check"></i> <span>Loja online</span></li>
+                        <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de produtos</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Venda de serviços</span></li>
-                        <li class="na"><i class="bi bi-x"></i> <span>Assinatura reverte para apoio social</span></li>
+                        <li class="na"><i class="bi bi-x"></i> <span>Assinatura reverte para causas</span></li>
                         <li><i class="bi bi-check"></i> <span>Percentagem das vendas para apoio social</span>
                         </li>
                     </ul>
@@ -36,11 +36,11 @@
                     <h3>Vendedores de produtos / serviços</h3>
                     <h4><sup>€</sup>15<span> / mês + % das vendas</span></h4>
                     <ul>
-                        <li><i class="bi bi-check"></i> <span>Loja online em CausasApp</span></li>
-                        <li><i class="bi bi-check"></i> <span>Selo de apoio CausasApp</span></li>
+                        <li><i class="bi bi-check"></i> <span>Loja online</span></li>
+                        <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de produtos</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de serviços</span></li>
-                        <li><i class="bi bi-check"></i> <span>Assinatura reverte para apoio social</span></li>
+                        <li><i class="bi bi-check"></i> <span>Assinatura reverte para causas</span></li>
                         <li><i class="bi bi-check"></i> <span>Percentagem das vendas para apoio social</span>
                         </li>
                     </ul>
@@ -53,11 +53,11 @@
                     <h3>Vendedores de serviços</h3>
                     <h4><sup>€</sup>29<span> / mês</span></h4>
                     <ul>
-                        <li><i class="bi bi-check"></i> <span>Loja online em CausasApp</span></li>
-                        <li><i class="bi bi-check"></i> <span>Selo de apoio CausasApp</span></li>
+                        <li><i class="bi bi-check"></i> <span>Loja online</span></li>
+                        <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Venda de produtos</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de serviços</span></li>
-                        <li><i class="bi bi-check"></i> <span>Assinatura reverte para apoio social</span></li>
+                        <li><i class="bi bi-check"></i> <span>Assinatura reverte para causas</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Percentagem das vendas para apoio social</span>
                         </li>
                     </ul>
