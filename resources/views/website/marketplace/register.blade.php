@@ -5,8 +5,8 @@
 
     <!-- Section Title -->
     <div class="container section-title aos-init aos-animate" data-aos="fade-up">
-        <h2>Assinaturas</h2>
-        <p>Escolha a assinatura que melhor se ajusta ao seu negócio e aos seus objetivos de vendas e de ajuda a causas solidárias.
+        <h2>Planos</h2>
+        <p>Escolha o plano que melhor se ajusta ao seu negócio e aos seus objetivos de vendas e de ajuda a causas solidárias.
         </p>
     </div><!-- End Section Title -->
 
